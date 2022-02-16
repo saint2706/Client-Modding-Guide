@@ -1,5 +1,7 @@
 # Fuck you
 
+*Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
+
 ## 31/55 replaced
 
 1. BetterNsfwTag (Cumcord)
