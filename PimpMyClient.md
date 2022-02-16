@@ -1,5 +1,17 @@
 # How to juice up your discord client
 
+***Installation method has been primarily made keeping Windows in mind but if you use any other OS, usually replacing the file path works***
+
+Normal Discord Installation Folders:
+
+Windows - /%LOCALAPPDATA%/discord/app-1.0.xx
+
+Linux - /usr/share/discord
+
+Mac - /Library/Application Support/Discord
+
+<https://savelocation.net/discord> for more info.
+
 ## Step 1
 
 A good base client. There is no elaboration. Only one choice, Kernel.
@@ -9,7 +21,9 @@ A good base client. There is no elaboration. Only one choice, Kernel.
 > Install [Zig](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager) > 0.90
 > and Install [Gyro](https://github.com/mattnite/gyro#installation)
 
-Then copy paste this entire block into your powershell terminal.
+### Old Method
+
+Copy paste this entire block into your powershell terminal.
 
 ```ps
 iwr https://get.pnpm.io/install.ps1 -useb | iex
@@ -42,7 +56,23 @@ or, if you wanna be spoonfed, open your powershell terminal in the kernel folder
 ./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9003 -k electron\dist
 ```
 
-To verify if the installation was successful, open discord, press ctrl+shift+i and see if it says "Loading Packages..." anywhere.
+### Recommended Method
+
+- Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/latest).
+
+- Make a folder "kernel" and place the downloaded installer in it.
+
+- Close discord completely.
+
+- Run the installer, click [Install](https://i.imgur.com/SJjbt0P.png) and then it should [automatically detect](https://i.imgur.com/hOQFuSu.png) the path to your discord installation.
+
+- If it didn't detect the path to your discord installation, then click on browse and navigate to C:\Users\%username%\Appdata\Local\Discord\app-1.0.xx.
+
+- Click on [Kernel Path](https://i.imgur.com/zH6bBgf.png) and select the folder "kernel" from the second step.
+
+- Then click on Install. Make sure both the toggles are set to "On".
+
+To verify if the installation was successful, open discord, press [ctrl+shift+i](https://pastebin.com/6yyJgwGS) and see if it says "Loading Packages..." anywhere.
 
 ### Why kernel?
 
@@ -64,7 +94,7 @@ Because kernel offers a major performance boost and it can run packages/plugins/
 
 <https://github.com/HolyMod/HolyMod>
 
-**_To install these plugins in kernel, simply clone their respective repos to the kernel\electron\dist\packages folder._**
+***To install these plugins in kernel, simply clone their respective repos to the kernel\electron\dist\packages folder.***
 
 - For cumcord you will have to unzip the archive into the packages folder since you can't clone sub-directories.
 
@@ -85,6 +115,8 @@ Join the servers to get support and help.
 Kernel - <https://discord.gg/8mPTjTZ4SZ>
 
 OpenAsar - <https://discord.gg/neMncS2>
+
+HolyMod - <https://discord.gg/gvA2ree>
 
 Note:-
 To get support for any of the compat plugins, use the package-support channel in the kernel server.
