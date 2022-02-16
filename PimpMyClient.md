@@ -58,7 +58,7 @@ or, if you wanna be spoonfed, open your powershell terminal in the kernel folder
 
 ### Recommended Method
 
-- Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/latest).
+- Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/tag/v1.0.1).
 
 - Make a folder "kernel" and place the downloaded installer in it.
 
