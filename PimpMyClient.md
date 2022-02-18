@@ -53,7 +53,7 @@ installer-cli -i path/to/electron/app -k path/to/kernel/dist/folder
 or, if you wanna be spoonfed, open your powershell terminal in the kernel folder and run
 
 ```ps
-./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9003 -k electron\dist
+./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9004 -k electron\dist
 ```
 
 ### Recommended Method
