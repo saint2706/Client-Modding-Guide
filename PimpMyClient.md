@@ -90,17 +90,13 @@ Because kernel offers a major performance boost and it can run packages/plugins/
 
 <https://github.com/kernel-mod/packages/tree/master/CumcordLoader> or [Direct Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fkernel-mod%2Fpackages%2Ftree%2Fmaster%2FCumcordLoader)
 
-> HolyMod Plugins
-
-<https://github.com/HolyMod/HolyMod>
-
 ***To install these plugins in kernel, simply clone their respective repos to the kernel\electron\dist\packages folder.***
 
 - For cumcord you will have to unzip the archive into the packages folder since you can't clone sub-directories.
 
 ## Step 2
 
-I assume you have installed kernel, bd-compat, pC-compat, cumcord and holymod. I also assume you have configured them and downloaded your favorite plugins and themes for them. An obvious concern is speed and performance issues due to so many compats. While kernel manages to hold its own, things can always get better. That's where openasar comes in.
+I assume you have installed kernel, bd-compat, pC-compat and cumcord. I also assume you have configured them and downloaded your favorite plugins and themes for them. An obvious concern is speed and performance issues due to so many compats. While kernel manages to hold its own, things can always get better. That's where openasar comes in.
 
 **How Install??**
 
@@ -115,8 +111,6 @@ Join the servers to get support and help.
 Kernel - <https://discord.gg/8mPTjTZ4SZ>
 
 OpenAsar - <https://discord.gg/neMncS2>
-
-HolyMod - <https://discord.gg/gvA2ree>
 
 Note:-
 To get support for any of the compat plugins, use the package-support channel in the kernel server.

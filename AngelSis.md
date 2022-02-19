@@ -1,6 +1,6 @@
 # Fuck you
 
-## 31/55 replaced
+## 30/55 replaced
 
 1. BetterNsfwTag (Cumcord)
    - <https://e-boi.github.io/cumcord-plugins/nsfwtags/dist>
@@ -54,9 +54,7 @@
     - <https://github.com/NurMarvin/guild-profile>
 25. ServerFolders (BetterDiscord)
     - <https://github.com/Zerthox/BetterDiscord-Plugins/blob/master/dist/bd/BetterFolders.plugin.js>
-26. ShowBadgesInChat (HolyMod)
-    - <https://github.com/HolyMod/ShowBadgesInChat>
-27. TopRoleEverywhere (PowerCord)
+26. TopRoleEverywhere (PowerCord)
     - <https://github.com/cyyynthia/toprole-everywhere>
-28. UserNotes (PowerCord)
+27. UserNotes (PowerCord)
     - <https://github.com/griefmodz/notey>
