@@ -1,6 +1,6 @@
 # Fuck you
 
-## 30/55 replaced
+## 33/57 replaced
 
 *Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
 
@@ -10,53 +10,89 @@
    - <https://betterdiscord.app/Download?id=116>
 3. ChatFilter (Powercord)
    - <https://github.com/A-Trash-Coder/WordFilter>
-4. CustomTimestamps (Powercord)
+4. CompleteTimestamps (Powercord)
    - <https://github.com/TaiAurori/custom-timestamps>
 5. CopyRawMessage (BetterDiscord)
    - <https://betterdiscord.app/Download?id=176>
-6. CreationDate, JoinedAtDate, LastMessageDate, ShowConnections (BetterDiscord)
+6. CreationDate (BetterDiscord)
+7. JoinedAtDate (BetterDiscord)
+8. LastMessageDate (BetterDiscord)
+9. ShowConnections (BetterDiscord)
    - <https://betterdiscord.app/Download?id=293>
-7. GameActivityToggle (BetterDiscord)
-   - <https://github.com/BD-MemorySeal/DevilBro-Alternatives/blob/distribution/GameActivityToggle/GameActivityToggle.plugin.js>
-8. ImageUtilities (BetterDiscord)
-   - <https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterImageViewer&dl=1>
-   - <https://1lighty.github.io/BetterDiscordStuff/?plugin=SaveToRedux&dl=1>
-9. MessageUtilities (BetterDiscord)
+10. GameActivityToggle (BetterDiscord)
+    - <https://github.com/BD-MemorySeal/DevilBro-Alternatives/blob/distribution/GameActivityToggle/GameActivityToggle.plugin.js>
+11. ImageUtilities (BetterDiscord)
+    - <https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterImageViewer&dl=1>
+    - <https://1lighty.github.io/BetterDiscordStuff/?plugin=SaveToRedux&dl=1>
+12. MessageUtilities (BetterDiscord)
     - <https://betterdiscord.app/Download?id=354>
     - <https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js?inline=false>
-10. PersonalPins (Powercord)
+13. PersonalPins (Powercord)
     - <https://github.com/SammCheese/holy-notes>
-11. PinDMs (Powercord)
+14. PinDMs (Powercord)
     - <https://github.com/Bricklou/powercord-pindms>
-12. QuickMention (Powercord)
+15. QuickMention (Powercord)
     - <https://github.com/Killerjet101/quick-mention>
-13. ReadAllNotificationsButton (Powercord)
+16. ReadAllNotificationsButton (Powercord)
     - <https://github.com/Juby210/quick-mark-as-read>
-14. ShowHiddenChannels (BetterDiscord)
+17. ShowHiddenChannels (BetterDiscord) (Powercord)
     - <https://github.com/BD-MemorySeal/DevilBro-Alternatives/blob/distribution/ShowHiddenChannels/ShowHiddenChannels.plugin.js>
-15. SpellCheck, WriteUppercase (Cumcord)
+    - <https://github.com/eternal404/show-hidden-channels>
+18. SpellCheck (Cumcord)
+19. WriteUppercase (Cumcord)
     - <https://cumcordplugins.github.io/Condom/cumcord.ruthenic.com/kyzamode>
-16. StaffTags (Powercord)
+20. StaffTags (Powercord)
     - <https://github.com/Puyodead1/powercord-stafftags>
-17. Translator (Powercord)
+21. Translator (Powercord)
     - <https://github.com/cyyynthia/message-translate>
-18. CustomQuoter (Powercord)
+22. CustomQuoter (Powercord)
     - <https://github.com/Juby210/better-quoter>
-19. NotificationSounds (Powercord)
+23. NotificationSounds (Powercord)
     - <https://github.com/ploogins/notif-sound-changer>
-20. OpenSteamLinksInApp (Powercord)
+24. OpenSteamLinksInApp (Powercord)
     - <https://github.com/Killerjet101/open-in-app>
-21. RemoveBlockedUSers (Cumcord)
+25. RemoveBlockedUSers (Cumcord)
     - <https://cumcordplugins.github.io/Condom/cc.nova-vps.ml/hideblockedmessages/>
-22. RemoveNicknames (Cumcord)
+26. RemoveNicknames (Cumcord)
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/show-username/>
-23. ServerCounter (Cumcord)
+27. ServerCounter (Cumcord)
     - <https://cumcordplugins.github.io/Condom/smartfridge.is-a.dev/Cumcord-plugins/ServerCount/dist/>
-24. ServerDetails (Powercord)
+28. ServerDetails (Powercord)
     - <https://github.com/NurMarvin/guild-profile>
-25. ServerFolders (BetterDiscord)
+29. ServerFolders (BetterDiscord)
     - <https://github.com/Zerthox/BetterDiscord-Plugins/blob/master/dist/bd/BetterFolders.plugin.js>
-26. TopRoleEverywhere (PowerCord)
+30. TopRoleEverywhere (PowerCord)
     - <https://github.com/cyyynthia/toprole-everywhere>
-27. UserNotes (PowerCord)
+31. UserNotes (PowerCord)
     - <https://github.com/griefmodz/notey>
+32. ReadAllNotificationsButton (BetterDiscord)
+    - <https://github.com/eternal404/better-discord-plugins/tree/master/MarkAllRead>
+33. FriendNotifications (BetterDiscord)
+    - <https://github.com/eternal404/better-discord-plugins/tree/master/RelationshipsNotifier>
+
+## Pending
+
+1. SpotifyControls
+2. PluginRepo
+3. ThemeRepo
+4. SplitLargeMessages
+5. ShowBadgesInChat
+6. BetterFriendList
+7. EditUsers
+8. CharCounter
+9. ThemeSettings
+10. CustomStatusPresets
+11. BetterSearchPage
+12. EditRoles
+13. EditServers
+14. ServerHider
+15. EditChannels
+16. RevealAllSpoilers
+17. OldTitlebar
+18. DisplayServersAsChannels
+19. GoogleSearchReplace
+20. EmojiStatistics
+21. ForceImagePreviews
+22. HideMutedCategories
+23. ClickableMentions
+24. TimedLightDarkMode
