@@ -2,6 +2,8 @@
 
 ## 30/55 replaced
 
+*Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
+
 1. BetterNsfwTag (Cumcord)
    - <https://e-boi.github.io/cumcord-plugins/nsfwtags/dist>
 2. ChatAliases (BetterDiscord)
