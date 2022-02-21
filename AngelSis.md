@@ -1,6 +1,6 @@
 # Fuck you
 
-## 33/57 replaced
+## 36/57 replaced
 
 *Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
 
@@ -69,6 +69,12 @@
     - <https://github.com/eternal404/better-discord-plugins/tree/master/MarkAllRead>
 33. FriendNotifications (BetterDiscord)
     - <https://github.com/eternal404/better-discord-plugins/tree/master/RelationshipsNotifier>
+34. BetterFriendList (Powercord)
+    - <https://github.com/E-boi/Better-Friends-List>
+35. ShowBadgesInChat (Powercord)
+    - <https://github.com/powercord-community/badges-everywhere>
+36. CharCounter
+    - <https://github.com/Strencher/BetterDiscordStuff/tree/master/CharCounter>
 
 ## Pending
 
@@ -76,23 +82,20 @@
 2. PluginRepo
 3. ThemeRepo
 4. SplitLargeMessages
-5. ShowBadgesInChat
-6. BetterFriendList
-7. EditUsers
-8. CharCounter
-9. ThemeSettings
-10. CustomStatusPresets
-11. BetterSearchPage
-12. EditRoles
-13. EditServers
-14. ServerHider
-15. EditChannels
-16. RevealAllSpoilers
-17. OldTitlebar
-18. DisplayServersAsChannels
-19. GoogleSearchReplace
-20. EmojiStatistics
-21. ForceImagePreviews
-22. HideMutedCategories
-23. ClickableMentions
-24. TimedLightDarkMode
+5. EditUsers
+6. ThemeSettings
+7. CustomStatusPresets
+8. BetterSearchPage
+9. EditRoles
+10. EditServers
+11. ServerHider
+12. EditChannels
+13. RevealAllSpoilers
+14. OldTitlebar
+15. DisplayServersAsChannels
+16. GoogleSearchReplace
+17. EmojiStatistics
+18. ForceImagePreviews
+19. HideMutedCategories
+20. ClickableMentions
+21. TimedLightDarkMode
