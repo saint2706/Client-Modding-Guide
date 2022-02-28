@@ -1,6 +1,6 @@
 # Fuck you
 
-## 36/57 replaced
+## 40/57 replaced
 
 *Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
 
@@ -29,6 +29,7 @@
     - <https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js?inline=false>
 13. PersonalPins (Powercord)
     - <https://github.com/SammCheese/holy-notes>
+    - <https://cumcordplugins.github.io/Condom/swishs-client-mod-plugins.github.io/sperm-bank/build/>
 14. PinDMs (Powercord)
     - <https://github.com/Bricklou/powercord-pindms>
 15. QuickMention (Powercord)
@@ -73,29 +74,42 @@
     - <https://github.com/E-boi/Better-Friends-List>
 35. ShowBadgesInChat (Powercord)
     - <https://github.com/powercord-community/badges-everywhere>
-36. CharCounter
+36. CharCounter (BetterDiscord)
     - <https://github.com/Strencher/BetterDiscordStuff/tree/master/CharCounter>
+37. PluginRepo (Cumcord)
+    - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/cum-zone/>
+38. ThemeRepo (Cumcord)
+    - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/cumstain/>
+39. OldTitlebar (CSS)
+
+    ```css
+    @import url("https://discordstyles.github.io/Addons/windows-titlebar.css");
+    ```
+
+40. RevealAllSpoilers (CSS)
+
+    ```css
+    .contents-2MsGLg .spoilerText-27bIiA.hidden-3B-Rum > .inlineContent-2YnoDy {
+        filter: unset; opacity: unset;
+    }
+    ```
 
 ## Pending
 
 1. SpotifyControls
-2. PluginRepo
-3. ThemeRepo
-4. SplitLargeMessages
-5. EditUsers
-6. ThemeSettings
-7. CustomStatusPresets
-8. BetterSearchPage
-9. EditRoles
-10. EditServers
-11. ServerHider
-12. EditChannels
-13. RevealAllSpoilers
-14. OldTitlebar
-15. DisplayServersAsChannels
-16. GoogleSearchReplace
-17. EmojiStatistics
-18. ForceImagePreviews
-19. HideMutedCategories
-20. ClickableMentions
-21. TimedLightDarkMode
+2. SplitLargeMessages
+3. EditUsers
+4. ThemeSettings (WIP)
+5. CustomStatusPresets
+6. BetterSearchPage
+7. EditRoles
+8. EditServers
+9. ServerHider
+10. EditChannels
+11. DisplayServersAsChannels
+12. GoogleSearchReplace
+13. EmojiStatistics
+14. ForceImagePreviews
+15. HideMutedCategories
+16. ClickableMentions
+17. TimedLightDarkMode
