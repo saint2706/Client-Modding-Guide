@@ -58,6 +58,8 @@ or, if you wanna be spoonfed, open your powershell terminal in the kernel folder
 
 ### Recommended Method
 
+#### Windows
+
 - Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/tag/v1.0.1).
 
 - Make a folder "kernel" and place the downloaded installer in it.
@@ -73,6 +75,10 @@ or, if you wanna be spoonfed, open your powershell terminal in the kernel folder
 - Then click on Install. Make sure both the toggles are set to "On".
 
 To verify if the installation was successful, open discord, press [ctrl+shift+i](https://pastebin.com/6yyJgwGS) and see if it says "Loading Packages..." anywhere.
+
+#### Arch
+
+- <https://github.com/Scraft161/scripts/blob/master/initcord>. (This also installs OpenAsar).
 
 ### Why kernel?
 
