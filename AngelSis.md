@@ -1,6 +1,6 @@
 # Fuck you
 
-## 40/57 replaced
+## 41/57 replaced
 
 *Make an issue if a plugin is broken or go request the plugin dev for an update. I haven't checked these plugins for their current working stage.*
 
@@ -93,6 +93,8 @@
         filter: unset; opacity: unset;
     }
     ```
+41. ServerHider (BetterDiscord)
+   - <https://betterdiscord.app/plugin/HideUtils>
 
 ## Pending
 
@@ -104,12 +106,11 @@
 6. BetterSearchPage
 7. EditRoles
 8. EditServers
-9. ServerHider
-10. EditChannels
-11. DisplayServersAsChannels
-12. GoogleSearchReplace
-13. EmojiStatistics
-14. ForceImagePreviews
-15. HideMutedCategories
-16. ClickableMentions
-17. TimedLightDarkMode
+9. EditChannels
+10. DisplayServersAsChannels
+11. GoogleSearchReplace
+12. EmojiStatistics
+13. ForceImagePreviews
+14. HideMutedCategories
+15. ClickableMentions
+16. TimedLightDarkMode
