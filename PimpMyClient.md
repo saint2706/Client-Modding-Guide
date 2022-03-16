@@ -108,6 +108,8 @@ I assume you have installed kernel, bd-compat, pC-compat and cumcord. I also ass
 
 <https://github.com/GooseMod/OpenAsar#readme>
 
+> If using with kernel, do remember to rename the installed `app.asar` to `app-original.asar`
+
 ## Step 3
 
 Join the servers to get support and help.
