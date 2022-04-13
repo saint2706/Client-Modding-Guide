@@ -20,6 +20,7 @@ A good base client. There is no elaboration. Only one choice, Kernel.
 
 You will need a recent [**node.js**](https://nodejs.org/) version, with [**pnpm**](https://pnpm.io) installed, regardless of the way you install Kernel.
 To do that, after installing [**node.js**](https://nodejs.org/) open a terminal and run:
+
 ```sh
 npm i -g pnpm
 ```
@@ -44,12 +45,15 @@ npm i -g pnpm
 
 To verify if the installation was successful, open discord, press [ctrl+shift+i](https://pastebin.com/6yyJgwGS) and see if it says "Loading Packages..." anywhere.
 
-#### B-But for Arch?
+#### Arch
 
-For you elitists, you can run this handy script:
+You can run this handy script:
 - <https://github.com/Scraft161/scripts/blob/master/initcord>. (This also installs OpenAsar).
 
 ### The Old Method
+
+> Install [Zig](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager) > 0.90
+> and Install [Gyro](https://github.com/mattnite/gyro#installation)
 
 Copy and paste this entire block into your PowerShell terminal.
 
