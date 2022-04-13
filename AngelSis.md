@@ -1,6 +1,6 @@
 # Fuck you, DevilBro
 
-## 42/57 bad Plugins replaced more efficient and functional alternatives.
+## 42/57 bad Plugins replaced with more efficient and functional alternatives.
 
 ##
 *Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage.*
