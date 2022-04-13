@@ -1,6 +1,6 @@
 # How to juice up your Discord Client
 
-***Installation method has been primarily made keeping Windows in mind but if you use any other OS, usually replacing the file path works***
+**_Installation method has been primarily made keeping Windows in mind but if you use any other OS, usually replacing the file path works_**
 
 Discord Installation Folders:
 
@@ -48,6 +48,7 @@ To verify if the installation was successful, open discord, press [ctrl+shift+i]
 #### Arch
 
 You can run this handy script:
+
 - <https://github.com/Scraft161/scripts/blob/master/initcord>. (This also installs OpenAsar).
 
 ### The Old Method
@@ -106,7 +107,7 @@ Here are the major compatibility layers to run:
 
 <https://github.com/kernel-mod/packages/tree/master/CumcordLoader> or [Direct Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fkernel-mod%2Fpackages%2Ftree%2Fmaster%2FCumcordLoader)
 
-***To install these in Kernel, simply git clone their respective repos to your Kernel packages folder.***
+**_To install these in Kernel, simply git clone their respective repos to your Kernel packages folder._**
 
 - For Cumcord, you will have to unzip the archive into the packages folder since you can't git clone sub-directories.
 

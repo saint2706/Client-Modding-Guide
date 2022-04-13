@@ -1,13 +1,14 @@
 # Fuck you, DevilBro
 
-## 42/57 bad Plugins replaced with more efficient and functional alternatives.
+## 41/57 bad Plugins replaced with more efficient and functional alternatives
 
-##
-*Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage.*
-##
+_Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage._
+
+### Plugins
+
 1. **BetterNsfwTag**
    - <https://e-boi.github.io/cumcord-plugins/nsfwtags/dist> (Cumcord)
-2. **ChatAliases** 
+2. **ChatAliases**
    - <https://betterdiscord.app/Download?id=116> (BetterDiscord)
 3. **ChatFilter**
    - <https://github.com/A-Trash-Coder/WordFilter> (Powercord)
@@ -17,7 +18,16 @@
 5. **CopyRawMessage**
    - <https://betterdiscord.app/Download?id=176> (BetterDiscord)
    - <https://github.com/Juby210/view-raw> (Powercord)
-6. **CreationDate**, 7. **JoinedAtDate**, 8. **LastMessageDate**, 9. **ShowConnections**
+6. **CreationDate**
+   - <https://betterdiscord.app/Download?id=293> (BetterDiscord)
+   - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/showconnections/dist> (Cumcord)
+7. **JoinedAtDate**
+   - <https://betterdiscord.app/Download?id=293> (BetterDiscord)
+   - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/showconnections/dist> (Cumcord)
+8. **LastMessageDate**
+   - <https://betterdiscord.app/Download?id=293> (BetterDiscord)
+   - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/showconnections/dist> (Cumcord)
+9. **ShowConnections**
    - <https://betterdiscord.app/Download?id=293> (BetterDiscord)
    - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/showconnections/dist> (Cumcord)
 10. **GameActivityToggle**
@@ -29,7 +39,7 @@
 12. **MessageUtilities**
     - <https://betterdiscord.app/Download?id=354> (BetterDiscord)
     - <https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js?inline=false> (BetterDiscord)
-13. **PersonalPins** 
+13. **PersonalPins**
     - <https://github.com/SammCheese/holy-notes> (Powercord)
     - <https://cumcordplugins.github.io/Condom/swishs-client-mod-plugins.github.io/sperm-bank/build/> (Cumcord)
 14. **PinDMs**
@@ -37,13 +47,15 @@
     - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/pindms/dist> (Cumcord)
 15. **QuickMention**
     - <https://github.com/Killerjet101/quick-mention> (Powercord)
-16. **ReadAllNotificationsButton** 
+16. **ReadAllNotificationsButton**
     - <https://github.com/Juby210/quick-mark-as-read> (Powercord)
 17. **ShowHiddenChannels**
     - <https://github.com/BD-MemorySeal/DevilBro-Alternatives/blob/distribution/ShowHiddenChannels> (BetterDiscord)
     - <https://github.com/eternal404/show-hidden-channels> (Powercord)
     - <https://cumcordplugins.github.io/Condom/cumcord.xirreal.dev/hiddenChannels/> (Cumcord)
-18. **SpellCheck**, 19. **WriteUppercase**
+18. **SpellCheck**
+    - <https://cumcordplugins.github.io/Condom/cumcord.ruthenic.com/kyzamode> (Cumcord)
+19. **WriteUppercase**
     - <https://cumcordplugins.github.io/Condom/cumcord.ruthenic.com/kyzamode> (Cumcord)
 20. **StaffTags**
     - <https://github.com/Puyodead1/powercord-stafftags> (Powercord)
@@ -60,11 +72,11 @@
     - <https://cumcordplugins.github.io/Condom/cc.nova-vps.ml/hideblockedmessages/> (Cumcord)
 26. **RemoveNicknames**
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/show-username/> (Cumcord)
-27. **ServerCounter** 
+27. **ServerCounter**
     - <https://cumcordplugins.github.io/Condom/smartfridge.is-a.dev/Cumcord-plugins/ServerCount/dist/> (Cumcord)
 28. **ServerDetails**
     - <https://github.com/NurMarvin/guild-profile> (Powercord)
-29. **ServerFolders** 
+29. **ServerFolders**
     - <https://github.com/Zerthox/BetterDiscord-Plugins/blob/master/dist/bd/BetterFolders.plugin.js> (BetterDiscord)
 30. **TopRoleEverywhere**
     - <https://github.com/cyyynthia/toprole-everywhere> (Powercord)
@@ -94,32 +106,32 @@
 
     ```css
     .contents-2MsGLg .spoilerText-27bIiA.hidden-3B-Rum > .inlineContent-2YnoDy {
-        filter: unset; opacity: unset;
+     filter: unset;
+     opacity: unset;
     }
     ```
+
 41. **ServerHider**
-   - <https://betterdiscord.app/plugin/HideUtils> (BetterDiscord)
-   - <https://cumcordplugins.github.io/Condom/20kdc.gitlab.io/kdc-cord-plugins/gcat/> (Cumcord)
-42. **SpotifyControls** 
-   - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify>
-   (Powercord)
+    - <https://betterdiscord.app/plugin/HideUtils> (BetterDiscord)
+    - <https://cumcordplugins.github.io/Condom/20kdc.gitlab.io/kdc-cord-plugins/gcat/> (Cumcord)
+42. **SpotifyControls**
 
-
+    - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
 
 ## Missing/Broken Alternatives
 
-1. **SplitLargeMessages**
-2. **EditUsers**
-3. **ThemeSettings (WIP)**
-4. **CustomStatusPresets**
-5. **BetterSearchPage**
+1. **BetterSearchPage**
+2. **ClickableMentions**
+3. **CustomStatusPresets**
+4. **DisplayServersAsChannels**
+5. **EditChannels**
 6. **EditRoles**
 7. **EditServers**
-8. **EditChannels**
-9. **DisplayServersAsChannels**
-10. **GoogleSearchReplace**
-11. **EmojiStatistics**
-12. **ForceImagePreviews**
-13. **HideMutedCategories**
-14. **ClickableMentions**
+8. **EditUsers**
+9. **EmojiStatistics**
+10. **ForceImagePreviews**
+11. **GoogleSearchReplace**
+12. **HideMutedCategories**
+13. **SplitLargeMessages**
+14. **ThemeSettings (WIP)**
 15. **TimedLightDarkMode**
