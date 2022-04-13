@@ -1,14 +1,14 @@
-# How to juice up your discord client
+# How to juice up your Discord Client
 
 ***Installation method has been primarily made keeping Windows in mind but if you use any other OS, usually replacing the file path works***
 
-Normal Discord Installation Folders:
+Discord Installation Folders:
 
-Windows - /%LOCALAPPDATA%/discord/app-1.0.xx
+**Windows** - /%LOCALAPPDATA%/discord/app-1.0.xx
 
-Linux - /usr/share/discord
+**Linux** - /usr/share/discord
 
-Mac - /Library/Application Support/Discord
+**Mac** - /Library/Application Support/Discord
 
 <https://savelocation.net/discord> for more info.
 
@@ -18,42 +18,11 @@ A good base client. There is no elaboration. Only one choice, Kernel.
 
 **How install?????**
 
-> Install [Zig](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager) > 0.90
-> and Install [Gyro](https://github.com/mattnite/gyro#installation)
+You will need a recent [**node.js**](https://nodejs.org/) version, with [**pnpm**](https://pnpm.io) installed, regardless of the way you install Kernel.
+To do that, after installing [**node.js**](https://nodejs.org/) open a terminal and run:
 
-### Old Method
-
-Copy paste this entire block into your powershell terminal.
-
-```ps
-iwr https://get.pnpm.io/install.ps1 -useb | iex
-pnpm env use --global latest
-mkdir kernel
-cd kernel
-git clone https://github.com/kernel-mod/browser
-cd browser
-pnpm i
-cd ..
-git clone https://github.com/kernel-mod/electron
-cd electron
-pnpm i
-pnpm run build
-cd ..
-```
-
-Now head to <https://github.com/kernel-mod/installer-cli/releases> and get the one suited for your system.
-Save this file to the kernel folder made in the previous step.
-
-Now run,
-
-```ps
-installer-cli -i path/to/electron/app -k path/to/kernel/dist/folder
-```
-
-or, if you wanna be spoonfed, open your powershell terminal in the kernel folder and run
-
-```ps
-./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9004 -k electron\dist
+```sh
+npm i -g pnpm
 ```
 
 ### Recommended Method
@@ -78,11 +47,52 @@ To verify if the installation was successful, open discord, press [ctrl+shift+i]
 
 #### Arch
 
+You can run this handy script:
 - <https://github.com/Scraft161/scripts/blob/master/initcord>. (This also installs OpenAsar).
 
-### Why kernel?
+### The Old Method
 
-Because kernel offers a major performance boost and it can run packages/plugins/themes from almost all client mods.
+> Install [Zig](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager) > 0.90
+> and Install [Gyro](https://github.com/mattnite/gyro#installation)
+
+Copy and paste this entire block into your PowerShell terminal.
+
+```ps
+iwr https://get.pnpm.io/install.ps1 -useb | iex
+pnpm env use --global latest
+mkdir kernel
+cd kernel
+git clone https://github.com/kernel-mod/browser
+cd browser
+pnpm i
+cd ..
+git clone https://github.com/kernel-mod/electron
+cd electron
+pnpm i
+pnpm run build
+cd ..
+```
+
+Now head to <https://github.com/kernel-mod/installer-cli/releases> and get the one suited for your system.
+Save this file to the Kernel folder made in the previous step.
+
+Now run:
+
+```ps
+installer-cli -i path/to/electron/app -k path/to/kernel/dist/folder
+```
+
+or if you wanna be spoonfed, open your PowerShell terminal in the Kernel folder and run:
+
+```ps
+./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9004 -k electron\dist
+```
+
+### Why Kernel?
+
+Because Kernel offers a major performance boost and can run packages/plugins/themes from almost all client mods.
+
+Here are the major compatibility layers to run:
 
 > Powercord Plugins
 
@@ -96,37 +106,37 @@ Because kernel offers a major performance boost and it can run packages/plugins/
 
 <https://github.com/kernel-mod/packages/tree/master/CumcordLoader> or [Direct Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fkernel-mod%2Fpackages%2Ftree%2Fmaster%2FCumcordLoader)
 
-***To install these plugins in kernel, simply clone their respective repos to the kernel\electron\dist\packages folder.***
+***To install these in Kernel, simply git clone their respective repos to your Kernel packages folder.***
 
-- For cumcord you will have to unzip the archive into the packages folder since you can't clone sub-directories.
+- For Cumcord, you will have to unzip the archive into the packages folder since you can't git clone sub-directories.
 
 ## Step 2
 
-I assume you have installed kernel, bd-compat, pC-compat and cumcord. I also assume you have configured them and downloaded your favorite plugins and themes for them. An obvious concern is speed and performance issues due to so many compats. While kernel manages to hold its own, things can always get better. That's where openasar comes in.
+I assume you have already installed Kernel, bd-compat, pc-compat and Cumcord. I also assume you have configured them and downloaded your favorite plugins and themes for them. An obvious concern is speed and performance issues due to so many compats. While Kernel manages to hold its own, things can always get better. That's where OpenAsar comes in.
 
 **How Install??**
 
-<https://github.com/GooseMod/OpenAsar#readme>
+<https://openasar.dev>
 
-> If using with kernel, do remember to rename the installed `app.asar` to `app-original.asar`
+> If using with kernel, do remember to rename the installed `app.asar` in your Discord install's folder to `app-original.asar`.
 
 ## Step 3
 
-Join the servers to get support and help.
+Join these servers to get support and help.
 
-**Read the faq channels and the pinned messages in support before crying for help.**
+**Read the FAQ channels and the pinned messages in the support channels before crying for help.**
 
 Kernel - <https://discord.gg/8mPTjTZ4SZ>
 
 OpenAsar - <https://discord.gg/neMncS2>
 
 Note:-
-To get support for any of the compat plugins, use the package-support channel in the kernel server.
+To get support for any of the compat plugins, use the [**#package-support**](https://discord.com/channels/891039687785996328/891053581136982056) channel in the Kernel server.
 The servers below are listed to get support from plugins that you may want to run through the compat layers.
-Asking for support for the compat plugins in the servers below is not recommended and may very well get you kicked from those servers.
+Asking for support for the compat plugins in the servers below is not recommended and may get you kicked from those servers.
 
 Cumcord - <https://discord.gg/FhHQQrVs7U>
 
 BetterDiscord - <https://discord.com/invite/0Tmfo5ZbORCRqbAd>
 
-powerCord - <https://discord.gg/powercord>
+Powercord - <https://discord.gg/powercord>
