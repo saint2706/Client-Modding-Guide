@@ -29,7 +29,7 @@ npm i -g pnpm
 
 #### Windows
 
-- Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/tag/v1.0.1).
+- Download the latest [Kernel-Windows.exe](https://github.com/strencher-kernel/gui-installer/releases/latest).
 
 - Make a folder "kernel" and place the downloaded installer in it.
 
