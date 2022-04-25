@@ -1,6 +1,6 @@
 # Fuck you, DevilBro
 
-## 43/57 bad Plugins replaced with more efficient and functional alternatives
+## 44/58 bad Plugins replaced with more efficient and functional alternatives
 
 _Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage._
 
@@ -118,6 +118,9 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
 43. **ClickableMentions**
     - <https://github.com/12944qwerty/click-mentions>
+44. **MessageLogger**
+    - <https://cumcordplugins.github.io/Condom/cc.c7.pm/MessageLogger/> (Cumcord)
+    - <https://betterdiscord.net/ghdl?id=3367> (BetterDiscord)
 
 ## Missing/Broken Alternatives
 
