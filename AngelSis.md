@@ -1,6 +1,6 @@
 # Fuck you, DevilBro
 
-## 42/57 bad Plugins replaced with more efficient and functional alternatives
+## 43/57 bad Plugins replaced with more efficient and functional alternatives
 
 _Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage._
 
@@ -115,23 +115,23 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://betterdiscord.app/plugin/HideUtils> (BetterDiscord)
     - <https://cumcordplugins.github.io/Condom/20kdc.gitlab.io/kdc-cord-plugins/gcat/> (Cumcord)
 42. **SpotifyControls**
-
     - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
+43. **ClickableMentions**
+    - <https://github.com/12944qwerty/click-mentions>
 
 ## Missing/Broken Alternatives
 
 1. **BetterSearchPage**
-2. **ClickableMentions**
-3. **CustomStatusPresets**
-4. **DisplayServersAsChannels**
-5. **EditChannels**
-6. **EditRoles**
-7. **EditServers**
-8. **EditUsers**
-9. **EmojiStatistics**
-10. **ForceImagePreviews**
-11. **GoogleSearchReplace**
-12. **HideMutedCategories**
-13. **SplitLargeMessages**
-14. **ThemeSettings (WIP)**
-15. **TimedLightDarkMode**
+2. **CustomStatusPresets**
+3. **DisplayServersAsChannels**
+4. **EditChannels**
+5. **EditRoles**
+6. **EditServers**
+7. **EditUsers**
+8. **EmojiStatistics**
+9. **ForceImagePreviews**
+10. **GoogleSearchReplace**
+11. **HideMutedCategories**
+12. **SplitLargeMessages**
+13. **ThemeSettings (WIP)**
+14. **TimedLightDarkMode**
