@@ -117,7 +117,7 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
 42. **SpotifyControls**
     - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
 43. **ClickableMentions**
-    - <https://github.com/12944qwerty/click-mentions>
+    - <https://github.com/12944qwerty/click-mentions> (Powercord)
 
 ## Missing/Broken Alternatives
 
