@@ -118,9 +118,12 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
 43. **ClickableMentions**
     - <https://github.com/12944qwerty/click-mentions> (Powercord)
+<<<<<<< HEAD
 44. **MessageLogger**
     - <https://betterdiscord.net/ghdl?id=3367> (BetterDiscord)
     - <https://cumcordplugins.github.io/Condom/cc.c7.pm/MessageLogger/> (Cumcord)
+=======
+>>>>>>> 625cac26faf1d175e75c11b9e2aa600cef5de5ef
 
 ## Missing/Broken Alternatives
 
