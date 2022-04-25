@@ -119,7 +119,7 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
 43. **ClickableMentions**
     - <https://github.com/12944qwerty/click-mentions> (Powercord)
 44. **MessageLogger**
-    - <https://betterdiscord.net/ghdl?id=3367> (BetterDiscord)
+    - <https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2> (BetterDiscord)
     - <https://cumcordplugins.github.io/Condom/cc.c7.pm/MessageLogger/> (Cumcord)
 
 ## Missing/Broken Alternatives
