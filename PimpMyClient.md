@@ -51,10 +51,7 @@ You can run this handy script:
 
 - <https://github.com/Scraft161/scripts/blob/master/initcord>. (This also installs OpenAsar).
 
-### The Old Method
-
-> Install [Zig](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager) > 0.90
-> and Install [Gyro](https://github.com/mattnite/gyro#installation)
+### The Old Method (will install the dev version of kernel)
 
 Copy and paste this entire block into your PowerShell terminal.
 
@@ -67,7 +64,7 @@ git clone https://github.com/kernel-mod/browser
 cd browser
 pnpm i
 cd ..
-git clone https://github.com/kernel-mod/electron
+git clone --branch dev https://github.com/kernel-mod/electron
 cd electron
 pnpm i
 pnpm run build
@@ -85,8 +82,23 @@ installer-cli -i path/to/electron/app -k path/to/kernel/dist/folder
 
 or if you wanna be spoonfed, open your PowerShell terminal in the Kernel folder and run:
 
+if you're on stable-
+
 ```ps
 ./installer.exe -i $env:LOCALAPPDATA\Discord\app-1.0.9004 -k electron\dist
+```
+
+if you're on canary-
+
+```ps
+./installer.exe -i $env:LOCALAPPDATA\DiscordCanary\app-1.0.46 -k electron\dist
+```
+
+then you go the discord folder, open index.js found at `application/resources/app/index.js` and replace the contents with the following
+
+```js
+const location = require("path").resolve(require("./package.json").location, "kernel.asar");
+require(location)?.default?.({startOriginal: true});
 ```
 
 ### Why Kernel?
