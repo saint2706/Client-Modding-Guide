@@ -69,6 +69,7 @@ cd electron
 pnpm i
 pnpm run build
 cd ..
+
 ```
 
 Now head to <https://github.com/kernel-mod/installer-cli/releases> and get the one suited for your system.
@@ -122,6 +123,29 @@ Here are the major compatibility layers to run:
 **_To install these in Kernel, simply git clone their respective repos to your Kernel packages folder._**
 
 - For Cumcord, you will have to unzip the archive into the packages folder since you can't git clone sub-directories.
+
+### Handy Installer for pc-compat, bd-compat and cumcord :-
+
+Copy and paste this entire block into your PowerShell terminal (opened inside the kernel folder).
+
+```sh
+git clone --depth 1 --filter=blob:none --sparse https://github.com/kernel-mod/packages
+cd packages
+git sparse-checkout init --cone
+git sparse-checkout set CumcordLoader
+git clone https://github.com/strencher-kernel/pc-compat
+cd pc-compat
+pnpm i --production
+cd ..
+git clone https://github.com/strencher-kernel/bd-compat
+cd bd-compat
+pnpm i --production
+cd ..
+rmdir .git -Force -Recurse
+rm .gitignore
+rm README.md
+
+```
 
 ## Step 2
 
