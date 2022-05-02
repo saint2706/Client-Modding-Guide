@@ -104,9 +104,11 @@ require(location)?.default?.({startOriginal: true});
 
 ### Why Kernel?
 
-Because Kernel offers a major performance boost and can run packages/plugins/themes from almost all client mods.
+![kernel is epic](https://i.imgur.com/fNvoMXc.png)
 
-Here are the major compatibility layers to run:
+_and can run packages/plugins/themes from almost all client mods._
+
+Here are some cool packages to run:
 
 > Powercord Plugins
 
@@ -116,7 +118,7 @@ Here are the major compatibility layers to run:
 
 <https://github.com/strencher-kernel/bd-compat>
 
-> Cumcord Plugins
+> Cumcord Plugins (Currently only works with dev version of kernel)
 
 <https://github.com/kernel-mod/packages/tree/master/CumcordLoader> or [Direct Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fkernel-mod%2Fpackages%2Ftree%2Fmaster%2FCumcordLoader)
 
@@ -124,7 +126,7 @@ Here are the major compatibility layers to run:
 
 - For Cumcord, you will have to unzip the archive into the packages folder since you can't git clone sub-directories.
 
-### Handy Installer for pc-compat, bd-compat and cumcord :-
+### Handy Installer for recommended packages :-
 
 Copy and paste this entire block into your PowerShell terminal (opened inside the kernel folder).
 
@@ -141,6 +143,10 @@ git clone https://github.com/strencher-kernel/bd-compat
 cd bd-compat
 pnpm i --production
 cd ..
+git clone https://github.com/strencher-kernel/webpack
+git clone https://github.com/Henry-Hiles/kernel-package-downloader
+git clone https://github.com/slow/discord-utilities
+git clone https://github.com/strencher-kernel/no-sentry
 rmdir .git -Force -Recurse
 rm .gitignore
 rm README.md
@@ -167,12 +173,12 @@ Kernel - <https://discord.gg/8mPTjTZ4SZ>
 
 OpenAsar - <https://discord.gg/neMncS2>
 
+Cumcord - <https://discord.gg/FhHQQrVs7U>
+
 Note:-
 To get support for any of the compat plugins, use the [**#package-support**](https://discord.com/channels/891039687785996328/891053581136982056) channel in the Kernel server.
 The servers below are listed to get support from plugins that you may want to run through the compat layers.
 Asking for support for the compat plugins in the servers below is not recommended and may get you kicked from those servers.
-
-Cumcord - <https://discord.gg/FhHQQrVs7U>
 
 BetterDiscord - <https://discord.com/invite/0Tmfo5ZbORCRqbAd>
 
