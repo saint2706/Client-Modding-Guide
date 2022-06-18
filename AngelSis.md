@@ -1,6 +1,6 @@
 # Fuck you, DevilBro
 
-## 44/58 bad Plugins replaced with more efficient and functional alternatives
+## 43/58 bad Plugins replaced with more efficient and functional alternatives
 
 _Make an issue if a plugin or snippet is broken or go request it's developer for a fix. I haven't checked these plugins for their current working stage._
 
@@ -72,37 +72,35 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://cumcordplugins.github.io/Condom/cc.nova-vps.ml/hideblockedmessages/> (Cumcord)
 26. **RemoveNicknames**
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/show-username/> (Cumcord)
-27. **ServerCounter**
-    - <https://cumcordplugins.github.io/Condom/smartfridge.is-a.dev/Cumcord-plugins/ServerCount/dist/> (Cumcord)
-28. **ServerDetails**
+27. **ServerDetails**
     - <https://github.com/NurMarvin/guild-profile> (Powercord)
-29. **ServerFolders**
+28. **ServerFolders**
     - <https://github.com/Zerthox/BetterDiscord-Plugins/blob/master/dist/bd/BetterFolders.plugin.js> (BetterDiscord)
-30. **TopRoleEverywhere**
+29. **TopRoleEverywhere**
     - <https://github.com/cyyynthia/toprole-everywhere> (Powercord)
-31. **UserNotes**
+30. **UserNotes**
     - <https://github.com/griefmodz/notey> (Powercord)
-32. **ReadAllNotificationsButton**
+31. **ReadAllNotificationsButton**
     - <https://github.com/eternal404/better-discord-plugins/tree/master/MarkAllRead> (BetterDiscord)
-33. **FriendNotifications**
+32. **FriendNotifications**
     - <https://github.com/eternal404/better-discord-plugins/tree/master/RelationshipsNotifier> (BetterDiscord)
-34. **BetterFriendList**
+33. **BetterFriendList**
     - <https://github.com/E-boi/Better-Friends-List> (Powercord)
-35. **ShowBadgesInChat**
+34. **ShowBadgesInChat**
     - <https://github.com/powercord-community/badges-everywhere> (Powercord)
-36. **CharCounter**
+35. **CharCounter**
     - <https://github.com/Strencher/BetterDiscordStuff/tree/master/CharCounter> (BetterDiscord)
-37. **PluginRepo**
+36. **PluginRepo**
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/cum-zone/> (Cumcord)
-38. **ThemeRepo**
+37. **ThemeRepo**
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/cumstain/> (Cumcord)
-39. **OldTitlebar** (CSS)
+38. **OldTitlebar** (CSS)
 
     ```css
     @import url("https://discordstyles.github.io/Addons/windows-titlebar.css");
     ```
 
-40. **RevealAllSpoilers** (CSS)
+39. **RevealAllSpoilers** (CSS)
 
     ```css
     .contents-2MsGLg .spoilerText-27bIiA.hidden-3B-Rum > .inlineContent-2YnoDy {
@@ -111,14 +109,14 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     }
     ```
 
-41. **ServerHider**
+40. **ServerHider**
     - <https://betterdiscord.app/plugin/HideUtils> (BetterDiscord)
     - <https://cumcordplugins.github.io/Condom/20kdc.gitlab.io/kdc-cord-plugins/gcat/> (Cumcord)
-42. **SpotifyControls**
+41. **SpotifyControls**
     - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Powercord)
-43. **ClickableMentions**
+42. **ClickableMentions**
     - <https://github.com/12944qwerty/click-mentions> (Powercord)
-44. **MessageLogger**
+43. **MessageLogger**
     - <https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2> (BetterDiscord)
     - <https://cumcordplugins.github.io/Condom/cc.c7.pm/MessageLogger/> (Cumcord)
 
@@ -135,6 +133,7 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
 9. **ForceImagePreviews**
 10. **GoogleSearchReplace**
 11. **HideMutedCategories**
-12. **SplitLargeMessages**
-13. **ThemeSettings (WIP)**
-14. **TimedLightDarkMode**
+12. **ServerCounter**
+13. **SplitLargeMessages**
+14. **ThemeSettings (WIP)**
+15. **TimedLightDarkMode**
