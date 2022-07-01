@@ -118,9 +118,16 @@ Here are some cool packages to run:
 
 <https://github.com/strencher-kernel/bd-compat>
 
-> Cumcord Plugins (Currently only works with dev version of kernel)
+> Cumcord Plugins
 
-<https://github.com/kernel-mod/packages/tree/master/CumcordLoader> or [Direct Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fkernel-mod%2Fpackages%2Ftree%2Fmaster%2FCumcordLoader)
+Best way to install cumcord now is openasar :D.
+just add
+
+```json
+"js":"fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"
+```
+
+to your settings.json
 
 **_To install these in Kernel, simply git clone their respective repos to your Kernel packages folder._**
 
@@ -131,10 +138,7 @@ Here are some cool packages to run:
 Copy and paste this entire block into your PowerShell terminal (opened inside the kernel folder).
 
 ```sh
-git clone --depth 1 --filter=blob:none --sparse https://github.com/kernel-mod/packages
 cd packages
-git sparse-checkout init --cone
-git sparse-checkout set CumcordLoader
 git clone https://github.com/strencher-kernel/pc-compat
 cd pc-compat
 pnpm i --production
@@ -147,10 +151,6 @@ git clone https://github.com/strencher-kernel/webpack
 git clone https://github.com/Henry-Hiles/kernel-package-downloader
 git clone https://github.com/slow/discord-utilities
 git clone https://github.com/strencher-kernel/no-sentry
-rmdir .git -Force -Recurse
-rm .gitignore
-rm README.md
-
 ```
 
 ## Step 2
