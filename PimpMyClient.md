@@ -131,8 +131,6 @@ to your settings.json
 
 **_To install these in Kernel, simply git clone their respective repos to your Kernel packages folder._**
 
-- For Cumcord, you will have to unzip the archive into the packages folder since you can't git clone sub-directories.
-
 ### Handy Installer for recommended packages :-
 
 Copy and paste this entire block into your PowerShell terminal (opened inside the kernel folder).
