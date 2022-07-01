@@ -137,6 +137,8 @@ Copy and paste this entire block into your PowerShell terminal (opened inside th
 
 ```sh
 cd packages
+git clone https://github.com/strencher-kernel/settings
+cd ..
 git clone https://github.com/strencher-kernel/pc-compat
 cd pc-compat
 pnpm i --production
