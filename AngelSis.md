@@ -43,6 +43,7 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://github.com/SammCheese/holy-notes> (Powercord)
     - <https://cumcordplugins.github.io/Condom/swishs-client-mod-plugins.github.io/sperm-bank/build/> (Cumcord)
 14. **PinDMs**
+    - <https://github.com/abUwUser/DMFolders/tree/release> (BetterDiscord/Powercord/Goosemod)
     - <https://github.com/Bricklou/powercord-pindms> (Powercord)
     - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/pindms/dist> (Cumcord)
 15. **QuickMention**
