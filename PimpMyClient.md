@@ -127,7 +127,7 @@ just add
 "js":"fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"
 ```
 
-to your settings.json (`%APPDATA%/discordcanary/settings.json` on Windows, `~/.config/discordcanary/settings.json` on Linux)
+to your settings.json (`%APPDATA%/discord/settings.json` on Windows, `~/.config/discord/settings.json` on Linux, replace `discord` with `discordcanary` for Canary, and so on)
 
 **_To install these in Kernel, simply git clone their respective repos to your Kernel packages folder._**
 
