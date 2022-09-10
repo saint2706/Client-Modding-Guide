@@ -7,11 +7,10 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
 ### Plugins
 
 1. **BetterFriendList**
-    - <https://github.com/E-boi/Better-Friends-List> (Replugged)
+    - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/betterfriendslist/dist/> (Cumcord)
 2. **BetterNsfwTag**
    - <https://e-boi.github.io/cumcord-plugins/nsfwtags/dist> (Cumcord)
    - <https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution/NSFWTag> (BetterDiscord)
-   - <https://github.com/E-boi/NSFW-tags> (Replugged)
 3. **CharCounter**
    - <https://github.com/Strencher/BetterDiscordStuff/tree/master/CharCounter> (BetterDiscord)
 4. **ChatAliases**
@@ -21,7 +20,6 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
 6. **ClickableMentions**
     - <https://github.com/12944qwerty/click-mentions> (Replugged)
 7. **CompleteTimestamps**
-   - <https://github.com/TaiAurori/custom-timestamps> (Replugged)
    - <https://cumcordplugins.github.io/Condom/skullyplugs.github.io/cc-plugins/extended-timestamps> (Cumcord)
 8. **CopyRawMessage**
    - <https://betterdiscord.app/plugin/Copier> (BetterDiscord)
@@ -29,7 +27,7 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
    - <https://github.com/mic0ishere/copy-raw-message> (Replugged)
    - <https://moltencoredev.github.io/CumcordPlugins/copyRaw/> (Cumcord)
 9. **CreationDate**
-   - <https://betterdiscord.app/plugin/UserDetails3> (BetterDiscord)
+   - <https://betterdiscord.app/plugin/UserDetails> (BetterDiscord)
    - <https://cumcordplugins.github.io/Condom/e-boi.github.io/cumcord-plugins/showconnections/dist> (Cumcord)
    - <https://github.com/Juby210/user-details> (Replugged)
 10. **CustomQuoter**
@@ -60,7 +58,6 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js?inline=false> (BetterDiscord)
     - <https://github.com/notKnei/quickChatReply> (Replugged)
     - <https://github.com/discord-modifications/quick-delete> (Replugged)
-    - <https://github.com/the-cord-plug/quick-delete-pc> (Replugged)
 19. **NotificationSounds**
     - <https://github.com/ploogins/notif-sound-changer> (Replugged)
 20. **OldTitlebar** (CSS)
@@ -128,16 +125,16 @@ _Make an issue if a plugin or snippet is broken or go request it's developer for
     - <https://cumcordplugins.github.io/Condom/cumcord.ruthenic.com/kyzamode> (Cumcord)
     - <https://github.com/VenPlugs/grammar-nazi> (Replugged)
 38. **SpotifyControls**
-    - <https://download-directory.github.io/?url=https://github.com/Replugged-org/Replugged/tree/v2/src/Replugged/plugins/pc-spotify> (Replugged)
+    - <https://download-directory.github.io/?url=https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-spotify> (Replugged)
     - <https://github.com/eternal404/spotify-crack> (Replugged)
 39. **StaffTags**
-    - <https://github.com/Puyodead1/Replugged-stafftags> (Replugged)
+    - <https://github.com/Puyodead1/powercord-stafftags> (Replugged)
 40. **ThemeRepo**
     - <https://cumcordplugins.github.io/Condom/yellowsink.github.io/cc-plugins/cumstain/> (Cumcord)
 41. **TopRoleEverywhere**
     - <https://github.com/cyyynthia/toprole-everywhere> (Replugged)
 42. **Translator**
-    - <https://github.com/cyyynthia/message-translate> (Replugged)
+    - <https://github.com/CanadaHonk/message-translate> (Replugged)
 43. **UserNotes**
     - <https://github.com/griefmodz/notey> (Replugged)
 44. **WriteUppercase**
